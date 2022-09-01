@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NewApplication</string>
+    <string name="nuntium">Nuntium</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fir">First to know</string>
+    <string name="all_news">All news in one place, be the\nfirst to know last news</string>
+    <string name="next">Next</string>
+    <string name="get">Get Started</string>
+    <string name="sel">Select your favorite topics</string>
+    <string name="select">Select some of your favorite topics to let us suggest better news for you.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Categories</string>
+    <string name="title_notifications">BookMark</string>
+    <string name="browse">Browse</string>
+    <string name="dis">Discover things of this world</string>
+    <string name="search">Search</string>
+    <string name="ran">Random</string>
+    <string name="sp">Sports</string>
+    <string name="gam">Gaming</string>
+    <string name="pol">Politics</string>
+    <string name="life">Life</string>
+    <string name="gaming">Gaming</string>
+    <string name="animal">Animals</string>
+    <string name="nat">Nature</string>
+    <string name="rec">Recommended for you</string>
+    <string name="categories">Categories</string>
+    <string name="of">Thousands of articles in each category</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="saved_articles_to_the_library">Saved articles to the library</string>
+    <string name="settings">Settings</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="languages">Languages</string>
+    <string name="language">Language</string>
+    <string name="turkish">Turkish</string>
+    <string name="german">German</string>
+    <string name="spanish">Spanish</string>
+    <string name="uzbek">Uzbek</string>
+
+    <dimen name="width">10dp</dimen>
+    <dimen name="height">5dp</dimen>
+</resources>
