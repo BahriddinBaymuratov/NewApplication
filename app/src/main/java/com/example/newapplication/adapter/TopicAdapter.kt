@@ -46,7 +46,7 @@ class TopicAdapter: ListAdapter<String, TopicAdapter.TopicViewHolder>(DiffCallBa
                     topicList.add(text)
                 }else{
                     binding.textView.setTextColor(ContextCompat.getColor(context, R.color.blue))
-                    binding.cardView.setCardBackgroundColor(ContextCompat.getColor(context, R.color.blue))
+                    binding.cardView.setCardBackgroundColor(ContextCompat.getColor(context, R.color.gray_light))
                     topicList.remove(text)
                 }
             }
